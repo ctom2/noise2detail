@@ -18,6 +18,8 @@
 
 Accepted early to **MICCAI 2025**.
 
+![denoising](figs/noise2detail-intro.png)
+
 ## Overview
 
 - **Ultra-Lightweight Model Design:** Introducing a computationally efficient model that achieves fast denoising with minimal memory demands, balancing inference speed and high-quality image restoration.
