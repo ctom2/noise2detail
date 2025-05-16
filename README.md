@@ -16,7 +16,7 @@
 
 \* Corresponding author
 
-Accepted to **MICCAI 2025**.
+Accepted early to **MICCAI 2025**.
 
 ## Citing Noise2Detail
 
