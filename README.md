@@ -1,6 +1,6 @@
 # Noise2Detail: Lightweight Data-Free Denoising for Detail-Preserving Biomedical Image Restoration
 
-#### [[`Paper`](https://arxiv.org/abs/2510.15611)] [[`Colab demo`]()] [[`BibTeX`](#citing-noise2detail)]
+#### [[`Paper`](https://arxiv.org/abs/2510.15611)] [[`Colab demo`](https://colab.research.google.com/github/ctom2/noise2detail/blob/main/noise2detail-notebook.ipynb)] [[`BibTeX`](#citing-noise2detail)]
 
 <blockquote>
   <p align="left">
